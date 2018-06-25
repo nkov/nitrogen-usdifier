@@ -18,6 +18,6 @@ Find this tool helpful? Buy me a beer!
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=537HCFHFZ55DY)
 
 ## License
-Copyright &copy; 2017 nomo studios, LLC. All rights reserved.
+Copyright 2017.
 
 Made with :hearts: in NYC.
